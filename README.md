@@ -9,11 +9,11 @@
 ## Conteúdo deste repositório
 ---
 
-Aqui você encontrará o código com a solução para o desafio do conversor de moedas, lembre-se que não existe uma solução única, para um mesmo problema podemos encontrar diferentes tipos de soluções e é isso que queremos demonstrar, por isso fornecemos uma solução para iniciantes que ainda estão aprendendo a usar essa nova linguagem e uma solução um pouco mais intermediária, que aplica mais conceitos orientados a objetos e vai um pouco mais longe no uso de boas práticas de programação.
+Aqui você encontrará o código com a solução para o desafio do conversor de moedas, lembre-se que não existe uma solução única, para um mesmo problema podemos encontrar diferentes tipos de soluções.
 
 Agora, como é que você pode ver essas soluções neste repositório?
 
-É muito simples, como vemos na imagem a seguir estamos trabalhando com diferentes branches podemos simplesmente selecionar o branch com a solução que queremos ver. Essas ramificações são uma versão nova e separada do repositório principal. As ramificações permitem trabalhar em diferentes partes de um projeto sem afetar a ramificação principal, são amplamente utilizadas pelos desenvolvedores para testar novos recursos em um aplicativo sem afetar a versão original. Nesse caso, nós os usamos para mostrar duas alternativas possíveis de como resolver esse desafio.
+É muito simples, como vemos na imagem a seguir estamos trabalhando com diferentes branches podemos simplesmente selecionar o branch com a solução que queremos ver. Essas ramificações são uma versão nova e separada do repositório principal. As ramificações permitem trabalhar em diferentes partes de um projeto sem afetar a ramificação principal, são amplamente utilizadas pelos desenvolvedores para testar novos recursos em um aplicativo sem afetar a versão original. 
 
 ![image](https://user-images.githubusercontent.com/91544872/185980012-8b938409-dd97-4e77-9ef2-b29361c6fdc4.png)
 
